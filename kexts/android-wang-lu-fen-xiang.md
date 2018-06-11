@@ -1,7 +1,3 @@
----
-description: 本頁教你如何安裝AppleALC音效驅動
----
-
 # Android 網路分享
 
 {% hint style="info" %}

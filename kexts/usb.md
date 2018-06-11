@@ -1,7 +1,3 @@
----
-description: 本頁教你如何安裝USB驅動
----
-
 # USB
 
 {% hint style="info" %}
