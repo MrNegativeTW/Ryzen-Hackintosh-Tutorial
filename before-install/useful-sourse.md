@@ -12,8 +12,9 @@ description: 缺檔案來這邊找幾乎都找得到
 
 強烈建議辦個帳號，這裡專門提供AMD的支援，建議在這邊下載：
 
-* Sierra 及 High Sierra 安裝檔 \(內含Clover Bootloader\)
-* * 
+* Sierra 及 High Sierra 安裝檔 \(內含**AMD內核**、**Clover Bootloader**\)
+* VoodooHDA 2.8.4 \(音效\)
+
 ## Tonymacx86
 
 {% hint style="info" %}
@@ -22,7 +23,8 @@ description: 缺檔案來這邊找幾乎都找得到
 
 建議在這邊下載：
 
-* 
+* Nvidia Web Driver
+
 ## RehabMan
 
 {% hint style="info" %}
@@ -31,4 +33,19 @@ description: 缺檔案來這邊找幾乎都找得到
 
 建議在這邊下載：
 
+* 網路
 * 
+## 雜項
+
+### Android 網路分享
+
+
+
+### USB網卡 \(Dlink DWA-131\)
+
+
+
+### CTL-471 驅動
+
+
+

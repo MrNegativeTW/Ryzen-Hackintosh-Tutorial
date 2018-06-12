@@ -15,6 +15,7 @@
 
 * 8G隨身碟一隻
 * macOS Sierra ISO
-* 
+* 一台能用的Windows電腦
+
 
 
