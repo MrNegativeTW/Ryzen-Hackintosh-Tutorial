@@ -28,7 +28,11 @@
 
 ## 同場加映
 
-### i7 4770 + GT730 \(8G RAM / 學校電腦\)
+### Windows - i7 4770 + GT730 \(8G RAM / 學校電腦\)
 
 ![](../.gitbook/assets/gt730.png)
+
+### Windows - AMD FX-8100 + HD7730 \(8G RAM / 路邊撿到的電腦\)
+
+![](../.gitbook/assets/r15.PNG)
 

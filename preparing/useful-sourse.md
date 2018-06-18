@@ -15,6 +15,14 @@ description: 缺檔案來這邊找幾乎都找得到
 * Sierra 及 High Sierra 安裝檔 \(內含**AMD內核**、**Clover Bootloader**\)
 * VoodooHDA 2.8.4 \(音效\)
 
+## Transmac
+
+{% hint style="info" %}
+[https://www.acutesystems.com/scrtm.htm](https://www.acutesystems.com/scrtm.htm)
+{% endhint %}
+
+用來將上面的DMG檔案製作成安裝隨身碟，此軟體是要付費的，但是有試用期，所以還是可以正常使用的
+
 ## Tonymacx86
 
 {% hint style="info" %}
