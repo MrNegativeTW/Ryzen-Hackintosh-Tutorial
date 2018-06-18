@@ -47,3 +47,7 @@ rm -rf /Applications/"Adobe Illustrator CC 2017"/"Adobe Illustrator.app"/Content
 
 * 未知
 
+### Lightroom CC 2015
+
+* 使用臉孔偵測時會崩潰
+

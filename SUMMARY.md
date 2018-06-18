@@ -26,5 +26,4 @@
   * [移除開機時的黑底白字](bugs/add-boot-apple-logo.md)
   * [此Mac無法連接iCloud，因為xxx出現問題](bugs/cant-connect-icloud.md)
   * [在Ｗindows磁碟重組後無法開機](bugs/cant-boot-after-restructuring.md)
-  * [畫面有時會Lag，但平時又還好](bugs/lag-sometimes.md)
 
