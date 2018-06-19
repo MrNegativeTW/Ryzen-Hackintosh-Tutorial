@@ -47,11 +47,15 @@ description: 缺檔案來這邊找幾乎都找得到
 
 ### Android 網路分享
 
-
+{% hint style="info" %}
+[https://joshuawise.com/horndis](https://joshuawise.com/horndis)​
+{% endhint %}
 
 ### USB網卡 \(Dlink DWA-131\)
 
-
+{% hint style="info" %}
+[http://support.dlink.com.au/Download/download.aspx?product=DWA-131&type=Drivers](http://support.dlink.com.au/Download/download.aspx?product=DWA-131&type=Drivers)
+{% endhint %}
 
 ### CTL-471 驅動
 

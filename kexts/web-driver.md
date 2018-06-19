@@ -38,5 +38,13 @@ Nvidia Web Driver 下載：[https://www.tonymacx86.com/nvidia-drivers/](https://
 
 ### 獨顯無法啟用？
 
+打開 **Clover Configurator**
 
+找到Boot，取消勾選 **nvda\_drv=1**
+
+並到System Parameters勾選 **NvidiaWeb**
+
+![nvda\_drv=1](../.gitbook/assets/nvdadrv.png)
+
+![NvidiaWeb](../.gitbook/assets/nvidiaweb.png)
 
