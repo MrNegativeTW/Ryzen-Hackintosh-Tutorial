@@ -14,9 +14,15 @@
 
 ### Windows
 
+可以看到正常效能應該落在**87fps**附近
 
+> R15辨識有問題，變成Windows 8了
+
+![](../.gitbook/assets/wei-ming-ming.png)
 
 ### macOS
+
+可是同樣配備到了macOS卻剩下43fps
 
 ![](../.gitbook/assets/r15.png)
 
@@ -24,15 +30,17 @@
 
 ### Windows
 
-
+待測試
 
 ### macOS
 
-
+待測試
 
 ## 同場加映
 
 ### Windows - i7 4770 + GT730 \(8G RAM / 學校電腦\)
+
+就連GT730這張卡都有65fps啊啊啊啊
 
 ![](../.gitbook/assets/gt730.png)
 
