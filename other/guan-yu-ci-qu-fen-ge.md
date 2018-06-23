@@ -20,15 +20,15 @@ WD Blue 1TB \(7200RPM\) 供儲存資料使用 / 分割為 exFAT + NTFS
 
 於macOS中打開磁碟工具程式
 
-![&#x78C1;&#x789F;&#x5DE5;&#x5177;&#x7A0B;&#x5F0F;](../.gitbook/assets/ying-mu-kuai-zhao-20180528-xia-wu-6.57.57.png)
+![](../.gitbook/assets/ying-mu-kuai-zhao-20180528-xia-wu-6.57.57.png)
 
 選擇你要的磁區，並按下清除
 
-![&#x9078;&#x64C7;&#x78C1;&#x5340;](../.gitbook/assets/ying-mu-kuai-zhao-20180528-xia-wu-6.59.28.png)
+![](../.gitbook/assets/ying-mu-kuai-zhao-20180528-xia-wu-6.59.28.png)
 
 格式選擇**ExFAT**
 
-![ExFAT](../.gitbook/assets/ying-mu-kuai-zhao-20180528-xia-wu-7.00.34.png)
+![](../.gitbook/assets/ying-mu-kuai-zhao-20180528-xia-wu-7.00.34.png)
 
 
 

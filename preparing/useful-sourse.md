@@ -15,7 +15,7 @@ description: 缺檔案來這邊找幾乎都找得到
 ## Clover Configurator
 
 {% hint style="info" %}
-{% embed data="{\"url\":\"https://mackie100projects.altervista.org/download-clover-configurator/\",\"type\":\"link\",\"title\":\"Download Clover Configurator 5.1.3.0 \| mackie100 projects\",\"description\":\"Download Clover Configurator version: Clover Configurator Global Edition \(>= 10.8\)\",\"icon\":{\"type\":\"icon\",\"url\":\"https://mackie100projects.altervista.org/wp-content/uploads/2015/04/cropped-icon-approved-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://mackie100projects.altervista.org/wp-content/uploads/2015/05/download\_small.png\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+
 {% endhint %}
 
 更改開機設定的神器，有兩種版本 **Classic Edition** 和 **Vibrant Edition**，差別於介面

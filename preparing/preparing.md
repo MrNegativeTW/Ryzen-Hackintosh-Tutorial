@@ -14,7 +14,7 @@
 
 ## 事前準備
 
-* 8G隨身碟一隻
+* 8G隨身碟一隻 （筆者使用 USB2.0 的，似乎可以用上USB 3.0）
 * macOS Sierra DMG
 * 一台能用的Windows電腦
 * 在Windows上安裝好Transmac

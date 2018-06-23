@@ -23,7 +23,7 @@ fsck_hfs -Rc -d /dev/diskXsX
 
 ## 如何進入Single User Mode
 
-於Clover開機選單按Enter進入系統前按下**空白鍵**
+於Clover開機選單中按下**空白鍵**
 
 並且選擇**Single User Mode**，然後選擇「使用這些選項開機」
 
