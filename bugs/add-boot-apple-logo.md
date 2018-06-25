@@ -4,3 +4,5 @@
 
 **Verbose** 又稱為囉嗦模式，一般時候沒有要除錯是可以關掉的
 
+![](../.gitbook/assets/verbose.png)
+

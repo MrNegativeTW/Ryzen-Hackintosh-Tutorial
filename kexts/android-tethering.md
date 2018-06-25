@@ -14,3 +14,11 @@
 
 ### 開始安裝
 
+下一步到底然後重開機即可
+
+## 使用
+
+將你的Android手機插上電腦，然後選擇網路分享，就這樣
+
+![](../.gitbook/assets/android_tethering.png)
+
