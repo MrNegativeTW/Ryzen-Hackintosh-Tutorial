@@ -8,9 +8,7 @@ description: 沒有蘋果樹 怎會有蘋果？
 [https://forum.amd-osx.com/viewtopic.php?f=24&t=1213](https://forum.amd-osx.com/viewtopic.php?f=24&t=1213)
 {% endhint %}
 
-現在，把剛剛準備的東西拿出來吧
-
-接著以系統管理員身分打開 **Transmac**
+首先，在我們老戰友Windows身上安裝 **Transmac**，接著以系統管理員身分打開
 
 ![](../.gitbook/assets/bsswxoi.png)
 

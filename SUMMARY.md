@@ -26,6 +26,8 @@
   * [關於顯卡性能損失](other/about-gpu-performance.md)
   * [關於磁區分割](other/about-disk-part.md)
   * [關於這台Mac](other/about-this-mac.md)
+  * [關於HDMI音效輸出](other/about-hdmi-audio.md)
+  * [關於雙螢幕](other/about-dual-screen.md)
 * [疑難雜症](bugs/README.md)
   * [來自未識別的開發者](bugs/zi-wei-de-zhe.md)
   * [VRAM使用率超高](bugs/high-vram.md)
