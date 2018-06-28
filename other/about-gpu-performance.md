@@ -30,11 +30,15 @@
 
 ### Windows
 
-待測試
+可以看到正常效能應該落在**83fps**附近
+
+![](../.gitbook/assets/rx460_win.png)
 
 ### macOS
 
-待測試
+可是同樣配備到了macOS卻剩下70fps \(第一次74，第二次71，這是第三次成績\)
+
+![](../.gitbook/assets/rx460_macos.png)
 
 ## 同場加映
 
