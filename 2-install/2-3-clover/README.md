@@ -6,7 +6,7 @@
 
 > \[硬碟名稱\] 是自己取的，筆者的是macOS，所以就選擇Boot macOS from macOS
 
-
+![](../../.gitbook/assets/2-3_boot.jpg)
 
 第一次開機會比較久一點點，請耐心等候並期待，當你看到多國語言跑著歡迎字幕時，恭喜你
 
@@ -23,7 +23,7 @@
 
 * 硬碟
 * 外接磁碟
-* CD、DVD、iPod
+* CD、DVD 和 iPod
 
 ![](../../.gitbook/assets/finder_2.png)
 

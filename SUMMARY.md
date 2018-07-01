@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Ryzen 安裝黑蘋果教學](README.md)
+* [AMD Ryzen 安裝黑蘋果教學](README.md)
 * [準備](1-preparing/README.md)
   * [實用資源](1-preparing/1-1-useful-sourse.md)
   * [事前準備 & 硬體配備](1-preparing/1-2-spec.md)
