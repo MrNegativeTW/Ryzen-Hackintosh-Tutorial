@@ -5,7 +5,7 @@ description: 本頁教你如何安裝CUDA驅動
 # CUDA \(Nvidia\)
 
 {% hint style="info" %}
-CUDA驅動下載：[http://www.nvidia.com/object/mac-driver-archive.html](http://www.nvidia.com/object/mac-driver-archive.html)
+CUDA 驅動下載：[http://www.nvidia.com/object/mac-driver-archive.html](http://www.nvidia.com/object/mac-driver-archive.html)
 {% endhint %}
 
 ## 安裝教學
