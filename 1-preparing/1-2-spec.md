@@ -3,7 +3,7 @@
 ## 硬體配備
 
 | CPU | [AMD Ryzen 7 1700 ](https://www.amd.com/zh-hant/products/cpu/amd-ryzen-7-1700) |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | 主機板 | [AB350 - Gaming 3 \(Rev. 1.0\)](https://www.gigabyte.com/tw/Motherboard/GA-AB350-Gaming-3-rev-1x#kf) |
 | 記憶體 | Micron 8G DDR4-2400 |
 | SSD \(For Hackintosh\) | [Kingston UV400 120G](https://www.kingston.com/tw/ssd/consumer/suv400s3) |

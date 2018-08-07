@@ -1,7 +1,5 @@
 # 顯示 \(Nvidia\)
 
-
-
 {% hint style="info" %}
 Nvidia Web Driver 下載：[https://www.tonymacx86.com/nvidia-drivers/](https://www.tonymacx86.com/nvidia-drivers/)
 {% endhint %}
@@ -47,4 +45,16 @@ Nvidia Web Driver 下載：[https://www.tonymacx86.com/nvidia-drivers/](https://
 ![nvda\_drv=1](../.gitbook/assets/nvdadrv.png)
 
 ![NvidiaWeb](../.gitbook/assets/nvidiaweb.png)
+
+### 安裝後黑畫面？
+
+{% hint style="success" %}
+\[Fix\] 10.12/10.13 Nvidia 2/3/4/5/6/7/9/10xx Series Black Screen
+
+[https://www.tonymacx86.com/threads/fix-10-12-10-13-nvidia-2-3-4-5-6-7-9-10xx-series-black-screen.203430/](https://www.tonymacx86.com/threads/fix-10-12-10-13-nvidia-2-3-4-5-6-7-9-10xx-series-black-screen.203430/)
+{% endhint %}
+
+筆者的系統識別選擇了Mac Pro 5.1，所以在安裝上並無問題
+
+![](../.gitbook/assets/3-1_5.png)
 
