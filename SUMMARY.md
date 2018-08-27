@@ -2,7 +2,7 @@
 
 * [AMD Ryzen 安裝黑蘋果教學](README.md)
 * [準備](1-preparing/README.md)
-  * [實用資源](1-preparing/1-1-useful-sourse.md)
+  * [實用資源](1-preparing/1-1-useful-resources.md)
   * [事前準備 & 硬體配備](1-preparing/1-2-spec.md)
   * [用Windows種下蘋果樹](1-preparing/1-3-create-install-usb-in-windows.md)
   * [Bios設定](1-preparing/1-4-bios-setting.md)
