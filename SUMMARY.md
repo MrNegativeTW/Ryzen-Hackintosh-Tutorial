@@ -30,6 +30,7 @@
   * [關於這台Mac](4-other/4-6-about-this-mac.md)
   * [關於HDMI音效輸出](4-other/4-7-about-hdmi-audio.md)
   * [關於雙螢幕](4-other/4-8-about-dual-screen.md)
+  * [關於開機選單的佈景](4-other/4-9-about-theme.md)
 * [疑難雜症](bugs/README.md)
   * [來自未識別的開發者](bugs/zi-wei-de-zhe.md)
   * [VRAM使用率超高](bugs/high-vram.md)

@@ -22,6 +22,14 @@ description: 缺檔案來這邊找幾乎都找得到
 
 更改開機設定的神器，有兩種版本 **Classic Edition** 和 **Vibrant Edition**，差別在介面，前者白色版、後者暗黑版
 
+### Clover Theme Manager
+
+{% hint style="info" %}
+[https://www.insanelymac.com/forum/topic/302674-clover-theme-manager/](https://www.insanelymac.com/forum/topic/302674-clover-theme-manager/)
+{% endhint %}
+
+用來下載開機選單佈景的工具，如果你很注重美化，那一定不能錯過這東西
+
 ## 站點
 
 ### AMD OS-X
