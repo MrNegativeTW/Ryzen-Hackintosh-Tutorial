@@ -1,4 +1,4 @@
-# Bios設定
+# Bios 設定
 
 {% hint style="info" %}
 [https://forum.amd-osx.com/viewtopic.php?f=24&t=2707](https://forum.amd-osx.com/viewtopic.php?f=24&t=2707)
@@ -10,9 +10,9 @@
 
 ## 設定 （以下內容僅供參考，設定以實際情況為主）
 
-BIOS設定上若有問題請視情況調整，我有一些設定與別人的教學不一樣，而且全程沒動過設定
+BIOS 設定上若有問題請視情況調整，我有一些設定與別人的教學不一樣，而且全程沒動過設定
 
-這邊使用的是**AB350 - Gaming 3**，所以截圖內容都以此主機板為主
+這邊使用的是 **AB350 - Gaming 3** ，所以截圖內容都以此主機板為主
 
 BIOS版本：**`F20`**
 

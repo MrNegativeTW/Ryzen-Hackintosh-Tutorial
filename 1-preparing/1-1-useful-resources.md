@@ -38,7 +38,7 @@ description: 缺檔案來這邊找幾乎都找得到
 [https://forum.amd-osx.com/app.php/bbdownloads/index.html](https://forum.amd-osx.com/app.php/bbdownloads/index.html)
 {% endhint %}
 
-AMD 安裝 macOS 的大本營，強烈建議辦個帳號，這裡專門提供AMD的支援
+AMD 安裝 macOS 的大本營，**強烈建議辦個帳號**，這裡專門提供AMD的支援
 
 建議在這邊下載：
 
@@ -85,7 +85,7 @@ AMD 安裝 macOS 的大本營，強烈建議辦個帳號，這裡專門提供AMD
 
 `需要Lilu`
 
-顯卡有問題裝這個也能解決一堆問題
+顯卡有問題裝這個能解決一堆問題
 
 話說不久前  NvidiaGraphicsFixup 與 WhateverGreen 合併了，剛剛看到 Github 上的 README 我也很訝異
 

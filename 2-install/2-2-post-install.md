@@ -10,5 +10,5 @@
 
 ![https://photos.app.goo.gl/D9KoysMKoJgWMpdo2](../.gitbook/assets/postsh.jpg)
 
-輸入完後按Enter，會自動跑更換程序，最後出現 **Enjoy Your System** 就成功了，接著看要手動重開機或等它自動重開機都可以
+輸入完後按 Enter，會自動跑更換程序，最後出現 **Enjoy Your System** 就成功了，接著看要手動重開機或等它自動重開機都可以
 

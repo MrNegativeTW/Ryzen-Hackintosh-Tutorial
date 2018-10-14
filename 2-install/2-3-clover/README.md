@@ -1,10 +1,10 @@
-# 讓Clover接手開機吧
+# 讓 Clover 接手開機吧
 
 等等！隨身碟還不要拔！我們還需要它進行最後一次的引導！
 
 再次從隨身碟開機，不過這次選擇的是 **Boot macOS from \[硬碟名稱\]**
 
-> \[硬碟名稱\] 是自己取的，筆者的是macOS，所以就選擇Boot macOS from macOS
+> \[硬碟名稱\] 是自己取的，筆者的是 macOS，所以就選擇 Boot macOS from macOS
 
 ![](../../.gitbook/assets/2-3_boot.jpg)
 

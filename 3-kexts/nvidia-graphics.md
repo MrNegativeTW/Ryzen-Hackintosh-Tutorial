@@ -8,7 +8,7 @@ Nvidia Web Driver 下載：[https://www.tonymacx86.com/nvidia-drivers/](https://
 
 ### 找到版本並下載
 
-從Os Build中的後綴號碼找到適合你系統的驅動並下載
+從 Os Build 中的後綴號碼找到適合你系統的驅動並下載
 
 例如筆者的是 macOS 10.12.6 Sierra **\(16G29\)**，就找到對應的版本下載
 
@@ -47,6 +47,8 @@ Nvidia Web Driver 下載：[https://www.tonymacx86.com/nvidia-drivers/](https://
 ![NvidiaWeb](../.gitbook/assets/nvidiaweb.png)
 
 ### 安裝後黑畫面？
+
+Github Issue \#1
 
 {% hint style="success" %}
 \[Fix\] 10.12/10.13 Nvidia 2/3/4/5/6/7/9/10xx Series Black Screen
