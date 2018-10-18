@@ -4,9 +4,9 @@
 [https://forum.amd-osx.com/viewtopic.php?f=24&t=2707](https://forum.amd-osx.com/viewtopic.php?f=24&t=2707)
 {% endhint %}
 
-恭喜你剛剛製作了你的第一支Sierra安裝隨身碟!
+恭喜你剛剛製作了你的第一支 Sierra 安裝隨身碟!
 
-接著讓我們重開機並進入Bios開始設定吧
+接著讓我們重開機並進入 Bios 開始設定吧
 
 ## 設定 （以下內容僅供參考，設定以實際情況為主）
 

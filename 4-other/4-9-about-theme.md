@@ -6,6 +6,14 @@ Clover Theme Manager下載：
 [https://www.insanelymac.com/forum/topic/302674-clover-theme-manager/](https://www.insanelymac.com/forum/topic/302674-clover-theme-manager/)
 {% endhint %}
 
+## 成果
+
+不多說，先上圖，這是我目前使用中的主題，簡潔有力
+
+![](../.gitbook/assets/4-9_7.jpg)
+
+![](../.gitbook/assets/4-6_8.jpg)
+
 ## 安裝教學
 
 首先，開啟 Clover Configurator，並掛載 EFI 磁區
