@@ -37,27 +37,35 @@ Clover檔案位於系統碟 \(對，幫你放好好\)
 
 ![](../../.gitbook/assets/cloverfiles.png)
 
-右鍵開啟 **Clover\_v2.4k\_r4173.pkg**，然後再跳出的視窗中按開啟，並下一步直到安裝類型
+右鍵開啟 **Clover\_v2.4k\_r4173.pkg**，並下一步直到安裝類型選擇自訂
 
 ![](../../.gitbook/assets/cloverinstall_1.png)
 
+接著勾選下列選項，並按安裝
 
+![](../../.gitbook/assets/2-3_cloverinstall_2.png)
 
 ## 複製 Clover 資料
 
+安裝完成後，需要把資料複製到 EFI 磁區
 
+開啟 Clover configurate 並掛載 EFI 磁區
 
-## 關於我的 Clover
+接著到 macOS 所在的磁碟並進入 `/Clover Files` 資料夾，將 `CLOVER` 資料夾複製到 EFI 磁區中的 EFI 資料夾覆蓋 `CLOVER` 資料夾
 
-當時我怎麼裝就是不能開機，也不知道是怎樣，所以最後爬文找到了一位用 Asrock 主機板的 Youtuber 所分享出來的 EFI 資料夾，然後放進去就可以開機了...
-
-當然後續我有做了一些設定，拿掉了一堆 Boot Arguments、改了 SMBIOS 等
+![](../../.gitbook/assets/2-3_cloverinstall_3png.png)
 
 ## 更換開機順序 \(極度重要\)
 
 拔了隨身碟，結果不能開機，怎麼開都是黑底紅字寫著神奇的字串
 
 很多人卡在這一步，就因為沒有將開機順序更換為硬碟開機，更換後就可以拔隨身碟靠自身力量開機啦！
+
+##  關於我的 Clover
+
+當時我怎麼裝就是不能開機，也不知道是怎樣，所以最後爬文找到了一位用 Asrock 主機板的 Youtuber 所分享出來的 EFI 資料夾，然後放進去就可以開機了...
+
+當然後續我有做了一些設定，拿掉了一堆 Boot Arguments、改了 SMBIOS 等
 
 
 
