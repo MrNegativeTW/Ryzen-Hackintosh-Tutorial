@@ -31,6 +31,7 @@
   * [關於 HDMI 音效輸出](4-other/4-7-about-hdmi-audio.md)
   * [關於雙螢幕](4-other/4-8-about-dual-screen.md)
   * [關於開機選單的佈景](4-other/4-9-about-theme.md)
+  * [關於讀寫 NTFS](4-other/4-10-about-ntfs.md)
 * [疑難雜症](bugs/README.md)
   * [來自未識別的開發者](bugs/unidentified-developer.md)
   * [移除開機時的黑底白字](bugs/add-boot-apple-logo.md)
@@ -40,4 +41,5 @@
   * [在 Ｗindows 磁碟重組後無法開機](bugs/cant-boot-after-restructuring.md)
   * [這部 Mac 無法連接 iCloud](bugs/cant-connect-icloud.md)
   * [睡眠後 USB 機率性失效](bugs/sleep-usb.md)
+* [更新紀錄](6-update-info.md)
 

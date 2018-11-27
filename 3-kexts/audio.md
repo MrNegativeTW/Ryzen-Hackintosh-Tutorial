@@ -6,13 +6,13 @@
 
 ## 安裝教學
 
-將 **VooDooHDA** 放入 **/Volume/EFI/EFI/CLOVER/kexts/10.12**
+將 **VooDooHDA** 放入 `/Volume/EFI/EFI/CLOVER/kexts/10.12`
 
 並請記得刪除
 
-AppleHDA.kext \(位於/Volume/EFI/EFI/CLOVER/kexts/10.12\)
+AppleHDA.kext \(位於 `/Volume/EFI/EFI/CLOVER/kexts/10.12`\)
 
-AppleALC.kext \(位於S/L/E\)
+AppleALC.kext \(位於 S/L/E\)
 
 ## 後記
 

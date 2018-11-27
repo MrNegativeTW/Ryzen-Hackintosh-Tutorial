@@ -5,7 +5,7 @@
 | \# | Model |
 | :--- | :--- |
 | CPU | [AMD Ryzen 7 1700 ](https://www.amd.com/zh-hant/products/cpu/amd-ryzen-7-1700) |
-| 主機板 | [AB350 - Gaming 3 \(Rev. 1.0\)](https://www.gigabyte.com/tw/Motherboard/GA-AB350-Gaming-3-rev-1x#kf) |
+| MotherBoard | [AB350 - Gaming 3 \(Rev. 1.0\)](https://www.gigabyte.com/tw/Motherboard/GA-AB350-Gaming-3-rev-1x#kf) |
 | 記憶體 | Micron 8G DDR4-2400 |
 | SSD \(For Hackintosh\) | [Kingston UV400 120G](https://www.kingston.com/tw/ssd/consumer/suv400s3) |
 | SSD \(For Windows\) | WD Green 120G |
@@ -20,7 +20,7 @@
 * 會使用 **Google**
 * 8G隨身碟一隻 （筆者使用 USB2.0 的，似乎可以用上USB 3.0）
 * macOS Sierra DMG \(SierraAMD V5\)
-* 一台能用的Windows電腦
+* 一台能用的 Windows 電腦
 
 
 
