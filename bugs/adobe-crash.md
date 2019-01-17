@@ -6,7 +6,7 @@
 | :--- | :--- | :--- |
 | Premiere Pro CC 2018 | 貌似正常，除加入防手震會崩潰 | 無 |
 | After Effects CC 2018 | 連開都打不開 | 指令 |
-| Photoshop CC  2018 | 2018打不開，2017選字崩潰 | 指令 |
+| Photoshop CC  2018 | 2018打不開、2017選字崩潰、讀 RAW 崩潰 | 指令 |
 | illustrator CC 2018 | 打不開 | 指令 |
 | illustrator CC 2017 | 打不開 | 指令 |
 | Lightroom CC | 打不開 | **降版裝** |
