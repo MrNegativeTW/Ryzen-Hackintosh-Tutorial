@@ -21,7 +21,7 @@
 * 英文能力
 * 會使用 **Google**
 * 8G隨身碟一隻 （筆者使用 USB2.0 的，似乎可以用上USB 3.0）
-* macOS Sierra DMG \(SierraAMD V5\)
+* **macOS Sierra DMG \(SierraAMD V5\)**
 * 一台能用的 Windows 電腦
 
 

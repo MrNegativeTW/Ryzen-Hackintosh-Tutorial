@@ -4,6 +4,7 @@
 * [準備](1-preparing/README.md)
   * [實用資源](1-preparing/1-1-useful-resources.md)
   * [事前準備 & 硬體配備](1-preparing/1-2-spec.md)
+  * [名詞解釋](1-preparing/ming-jie.md)
   * [用 Windows 種下蘋果樹](1-preparing/1-3-create-install-usb-in-windows.md)
   * [Bios 設定](1-preparing/1-4-bios-setting.md)
 * [安裝](2-install/README.md)

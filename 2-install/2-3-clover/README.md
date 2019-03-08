@@ -55,6 +55,10 @@ Clover檔案位於系統碟 \(對，幫你放好好\)
 
 ![](../../.gitbook/assets/2-3_cloverinstall_3png.png)
 
+接下來進到剛剛複製後的 Clover 資料夾中，將 `config_RX480.plist` 重新命名為 `config.plist` ，至於原本的就看要備份或者刪除都可以。
+
+重開機，接下面
+
 ## 更換開機順序 \(極度重要\)
 
 拔了隨身碟，結果不能開機，怎麼開都是黑底紅字寫著神奇的字串
@@ -64,6 +68,10 @@ Clover檔案位於系統碟 \(對，幫你放好好\)
 如下圖，將有 Clover 的開機順序換至第一順位
 
 ![](../../.gitbook/assets/2-3_bootpriorities.jpg)
+
+如果你順序沒換...
+
+![](../../.gitbook/assets/2-instell_nochange.jpg)
 
 ##  關於我的 Clover
 

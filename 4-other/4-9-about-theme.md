@@ -22,6 +22,10 @@ Clover Theme Manager下載：
 
 程式開啟時會確認 git 是否已安裝，若無會提示要求安裝，這時照提示安裝即可
 
+![](../.gitbook/assets/4-other_ctm_1.png)
+
+![&#x9019;&#x500B;&#x6703;&#x63D0;&#x793A;&#x5B89;&#x88DD;](../.gitbook/assets/4-other_ctm_2.png)
+
 順利的話會看到一排綠色勾勾
 
 ![](../.gitbook/assets/4-9_1.png)

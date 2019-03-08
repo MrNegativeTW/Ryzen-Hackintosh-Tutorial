@@ -30,6 +30,15 @@ description: 缺檔案來這邊找幾乎都找得到
 
 用來下載開機選單佈景的工具，如果你很注重美化，那一定不能錯過
 
+### Kext 工具
+
+{% hint style="info" %}
+* Kext Utility：[http://cvad-mac.narod.ru/index/0-4](http://cvad-mac.narod.ru/index/0-4)
+* Kext Wizard：[https://mac.softpedia.com/get/Utilities/Kext-Wizard.shtml](https://mac.softpedia.com/get/Utilities/Kext-Wizard.shtml)
+{% endhint %}
+
+* 據我的理解，這兩個可以用來裝驅動
+
 ## 站點
 
 ### AMD OS-X
@@ -64,7 +73,7 @@ AMD 安裝 macOS 的大本營，**強烈建議辦個帳號**，這裡專門提�
 建議在這邊下載：
 
 * 網路驅動
-* USB Iniect All
+* Generic USB3
 
 ## Kext
 
