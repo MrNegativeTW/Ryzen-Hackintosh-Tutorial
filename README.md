@@ -1,47 +1,48 @@
 ---
-description: 沒錢買 Mac，所以買了 Ryzen 裝黑蘋果
+description: 沒錢買Mac，所以買了Ryzen裝黑蘋果
 ---
 
 # AMD Ryzen 安裝黑蘋果教學
 
-本教學還在撰寫中，進度緩慢，最後更新日：2019 年 01 月 17 日 / 13:45
+{% hint style="success" %}
+本教學撰寫進度 99%，最後更新日：2019 年 03 月 10 日 / 17:00
+{% endhint %}
 
-**警告：**
-
+{% hint style="danger" %}
 1. 不要把 AMD 裝黑蘋果拿來當你吃飯的工具，不然光 Debug 就飽了，要吃飯，推 Intel + nVidia 平台。
-2. 本文以我的硬體出發，請自行確認您的硬體，不同的硬體有不同的驅動、內核等等
+2. 本文以我的硬體出發，請自行確認您的硬體，不同的硬體有不同的驅動、內核等
+{% endhint %}
 
 ## 關於
 
-由於安裝時遇到了非常多的阻礙，爬文爬遍了各地，例如
+由於安裝時遇到了非常多的阻礙，爬文爬遍了，例如 AMD OS X**、**r/hackintosh、Tonymacx86 等，所以在裝的時候就有個念頭：
 
-* 英語系 AMD 黑蘋果集散地 - **AMD OS X**
-* 中國黑蘋果集散地 - **遠景論壇**
-* Reddit Hackintosh 版
-* Tonymacx86
-* 各種部落格文章
+> 我要寫一篇「從我的硬體出發，從系統到驅動安裝的黑蘋果教學文」
 
-所以在我裝好的那一刻我就有個念頭：
+總之，歡迎分享本文，附上來源即可。
 
-> 我要寫一篇「從我的硬體出發，包含從系統安裝到驅動安裝的黑蘋果教學文章」
+## 開 Issue
 
-然後這個教學就這樣誕生了，希望能幫助到爬文爬到這邊的各位
-
-若是覺得文章不錯，也歡迎轉貼分享，只需附上來源即可，祝各位安裝順利！
-
-## 有問題嗎？
-
-安裝時若有發生問題，歡迎到 Github 開一個  Issue 討論
-
-小弟學疏才淺，教學中若有需要更正或是需要補充加強的地方，也請各位神人到 Github 開個 Issue 給小弟知道
-
-## 存放位置
+安裝有問題？開 Issue  
+教學有問題？開 Issue  
+教學需補充？開 Issue
 
 撰寫於 [GitBook](https://mtwstudio.gitbook.io/ryzentosh) 上，同步於 [Github](https://github.com/MrNegativeTW/Ryzen-Hackintosh-Tutorial)
 
-## 關鍵字
+## 小問題
 
-雖然不知道有沒有用
+目前使用上遇到的小問題：
+
+#### 日常
+
+* 畫面有時小 Lag，詳見「顯卡性能損失」
+
+#### 開發
+
+* Android  檔案傳輸應用程式無法讀取我的手機，但用 Android Studio 開發時可正常測試 \(via ADB\)。
+* XCode 的 Simulator 會 Lag
+
+## 關鍵字
 
 Ryzen 安裝黑蘋果  
 AMD 黑蘋果  
@@ -50,6 +51,21 @@ Ryzen 黑蘋果
 Ryzen 7 1700 黑蘋果   
 RX460 黑蘋果  
 AB350 Gaming3 黑蘋果  
-GTX1050 黑蘋果  
+GTX1050 黑蘋果
+
+## 
+
+```python
+# Joke.py
+while (AMD + Hackintosh) == 1:
+    Debug()
+```
+
+
+
+
+
+
+
 
 

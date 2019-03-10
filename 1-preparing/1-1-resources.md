@@ -114,7 +114,7 @@ Android 手機直接插上電腦是無法直接分享的，所以需要透過這
 [http://support.dlink.com.au/Download/download.aspx?product=DWA-131&type=Drivers](http://support.dlink.com.au/Download/download.aspx?product=DWA-131&type=Drivers)
 {% endhint %}
 
-這是我的 USB 網路卡，非刻意購買，但就是這麼剛好可以用
+這是我的 USB 網卡，非刻意購買，但就是這麼剛好可以用
 
 ### 繪圖板 - Wacom CTL-471
 
@@ -122,5 +122,5 @@ Android 手機直接插上電腦是無法直接分享的，所以需要透過這
 [http://cdn.wacom.com/u/productsupport/drivers/mac/consumer/pentablet\_5.3.7-6.dmg](http://cdn.wacom.com/u/productsupport/drivers/mac/consumer/pentablet_5.3.7-6.dmg)
 {% endhint %}
 
-我的繪圖板，Wacom 沒意外在雙平台都有提供驅動，請依照適合自己的下載
+繪圖板
 

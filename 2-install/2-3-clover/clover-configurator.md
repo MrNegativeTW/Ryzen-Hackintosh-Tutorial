@@ -10,15 +10,11 @@
 
 ## 使用方式
 
-第一步，也是每次都必做的一步，掛載EFI分區
-
-打開後選擇 **Mount EFI &gt; Mount Partition**
+每次開啟必做的一步，掛載EFI分區，選擇 **Mount EFI &gt; Mount Partition**
 
 ![](../../.gitbook/assets/clover_mount_part.png)
 
-然後從左上方選擇 **File &gt; Open**
-
-檔案位於 **EFI &gt; CLOVER &gt; config.plist**
+然後從左上方選擇 **File &gt; Open，**檔案位於 **EFI &gt; CLOVER &gt; config.plist**
 
 ![](../../.gitbook/assets/clover_open_recent.png)
 

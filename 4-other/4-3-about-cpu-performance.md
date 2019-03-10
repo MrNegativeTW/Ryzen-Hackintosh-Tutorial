@@ -24,7 +24,7 @@
 > * Ryzen 1500X 3.5GHz; **busratio = 35**
 > * Ryzen 1400 3.2GHz; **busratio = 32**
 
-筆者使用 Ryzen 7 1700 3.0Ghz 超狂16框框處理器，所以加入**busratio = 30**
+筆者使用 Ryzen 7 1700，所以加入**busratio = 30**
 
 ![](../.gitbook/assets/bootflags_ryzen.png)
 

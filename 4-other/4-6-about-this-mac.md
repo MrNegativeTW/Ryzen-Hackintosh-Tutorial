@@ -4,7 +4,7 @@ description: 警告！這是非常無聊的人才會做的事！
 
 # 關於這台 Mac
 
-先上完工圖
+完工圖
 
 ![](../.gitbook/assets/about-this-mac.png)
 

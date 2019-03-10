@@ -1,4 +1,4 @@
-# 開始吃蘋果
+# 開始安裝
 
 {% hint style="info" %}
 [https://forum.amd-osx.com/viewtopic.php?f=24&t=2707](https://forum.amd-osx.com/viewtopic.php?f=24&t=2707)

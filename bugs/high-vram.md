@@ -8,9 +8,11 @@
 
 ## 解法
 
-### 加Kexts
+### 加Kext
 
 不意外的，就是 [NvidiaGraphicsFixUp](https://github.com/lvs1974/NvidiaGraphicsFixup/releases)
+
+除了加 NvidiaGraphicsFixUp 之外，記得也要更新 Lilu 喔
 
 {% hint style="info" %}
 下載：[https://github.com/lvs1974/NvidiaGraphicsFixup/releases](https://github.com/lvs1974/NvidiaGraphicsFixup/releases)

@@ -1,10 +1,8 @@
 # 關於讀寫 NTFS
 
-macOS 預設情況下，是無法對 NTFS 磁區進行寫入的，只能有讀取功能，而且有些檔案還會呈現灰色無法拉出使用...
-
 ## 解決辦法
 
-安裝可以讀寫的程式，有兩個方案
+安裝可以寫的程式，有兩個方案
 
 方案一：Microsoft NTFS for Mac by Paragon Software
 

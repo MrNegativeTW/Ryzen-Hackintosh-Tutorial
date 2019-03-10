@@ -2,7 +2,9 @@
 description: 沒有蘋果樹 怎會有蘋果？
 ---
 
-# 用 Windows 種下蘋果樹
+# 製作安裝碟
+
+
 
 {% hint style="info" %}
 [https://forum.amd-osx.com/viewtopic.php?f=24&t=1213](https://forum.amd-osx.com/viewtopic.php?f=24&t=1213)

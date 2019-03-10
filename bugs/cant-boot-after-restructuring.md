@@ -4,6 +4,8 @@
 原文：[https://www.tonymacx86.com/threads/solved-sudden-unable-to-boot.236168/](https://www.tonymacx86.com/threads/solved-sudden-unable-to-boot.236168/)
 {% endhint %}
 
+## 症狀
+
 一次開進 Windows 後進行時碟重組，不過重組的是 E，完全跟 macOS 安裝的硬碟不相干
 
 錯誤訊息如下

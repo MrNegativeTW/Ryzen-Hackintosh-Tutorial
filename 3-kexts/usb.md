@@ -20,3 +20,13 @@ USB驅動下載：[https://bitbucket.org/RehabMan/os-x-generic-usb3/downloads/](
 
 主機板後方 USB 3.1 Gen 2 無法運作，其餘 USB 3.1 Gen 1 運作正常、速度正常。
 
+### 懶人包
+
+{% hint style="info" %}
+懶人包：[http://www.mediafire.com/file/gceaji3dlkervpo/USB\_Kexts.zip/file](http://www.mediafire.com/file/gceaji3dlkervpo/USB_Kexts.zip/file)
+{% endhint %}
+
+如果你很懶的找那些檔案，那你就需要懶人包
+
+
+

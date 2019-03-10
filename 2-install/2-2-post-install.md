@@ -1,4 +1,4 @@
-# Post Install \(極度重要\)
+# Post Install
 
 再次**從隨身碟**開機並選擇 **Boot macOS from SierraAMD**，我們要更換內核
 

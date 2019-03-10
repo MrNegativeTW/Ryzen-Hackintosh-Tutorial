@@ -1,9 +1,5 @@
 # 名詞解釋
 
-這邊放一些常見的縮寫，常常會讓新手搞不懂的那種
-
-## 正文開始
-
 ### S/L/E
 
 System/Library/Extension
