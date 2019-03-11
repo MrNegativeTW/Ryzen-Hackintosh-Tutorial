@@ -41,6 +41,7 @@ description: 沒錢買Mac，所以買了Ryzen裝黑蘋果
 
 * Android  檔案傳輸應用程式無法讀取我的手機，但用 Android Studio 開發時可正常測試 \(via ADB\)。
 * XCode 的 Simulator 會 Lag
+* XAMPP 不能安裝帶有 **VM** 字樣的版本，下載時請注意
 
 ## 關鍵字
 
