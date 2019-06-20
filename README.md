@@ -5,12 +5,18 @@ description: 沒錢買Mac，所以買了Ryzen裝黑蘋果
 # AMD Ryzen 安裝黑蘋果教學
 
 {% hint style="success" %}
-本教學撰寫進度 99%，最後更新日：2019 年 03 月 10 日 / 17:00
+本教學撰寫進度 99%，最後更新日：2019 年 06 月 20 日 / 15:00
 {% endhint %}
 
 {% hint style="danger" %}
-1. 不要把 AMD 裝黑蘋果拿來當你吃飯的工具，不然光 Debug 就飽了，要吃飯，推 Intel + nVidia 平台。
+1. 建議不要把 AMD 裝黑蘋果拿來當你吃飯的工具，不然光 Debug 就飽了，要吃飯，推 Intel + nVidia 平台。
 2. 本文以我的硬體出發，請自行確認您的硬體，不同的硬體有不同的驅動、內核等
+{% endhint %}
+
+{% hint style="info" %}
+預計 2019 年 7 月安裝 macOS Mojava 10.14
+
+安裝完成後這邊將不會再更新，反之會開一個新的 GitBook 紀錄 Mojave 安裝教學。
 {% endhint %}
 
 ## 關於
@@ -40,7 +46,9 @@ description: 沒錢買Mac，所以買了Ryzen裝黑蘋果
 #### 開發
 
 * Android  檔案傳輸應用程式無法讀取我的手機，但用 Android Studio 開發時可正常測試 \(via ADB\)。
-* XCode 的 Simulator 會 Lag
+* XCode 執行一切正常，就只有 Simulator 會小 Lag
+* XCode 版本太舊，僅能支援到 Swift 4.0，Simulator 最新只能到 11.2
+* XCode 接實機測試時需要下載新版 DeviceSupport，除非你的實機是舊版。
 * XAMPP 不能安裝帶有 **VM** 字樣的版本，下載時請注意
 
 ## 關鍵字

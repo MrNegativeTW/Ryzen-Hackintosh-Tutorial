@@ -10,7 +10,7 @@
 | Motherboard | [AB350 - Gaming 3 \(Rev. 1.0\)](https://www.gigabyte.com/tw/Motherboard/GA-AB350-Gaming-3-rev-1x#kf) |
 | RAM | Micron 8G DDR4-2400 |
 | SSD \(生灰塵用\) | [Kingston SSDNow UV400 120G](https://www.kingston.com/tw/ssd/consumer/suv400s3) |
-| ~~SSD \(窗戶用\)~~ | ~~WD Green SSD 120G \(別買，慘\)~~ |
+| ~~SSD \(窗戶用\)~~ | ~~WD Green SSD 120G \(別買，慘，已RMA\)~~ |
 | SSD \(黑蘋果用\) | WD Blue 3D NAND 240G |
 | HDD \(資料用\) | WD Blue 1TB \(7200RPM\) |
 | Graphics Card | [Gigabyte GeForce GTX 1050 D5 2G](https://www.gigabyte.com/tw/Graphics-Card/GV-N1050D5-2GD#kf) |
