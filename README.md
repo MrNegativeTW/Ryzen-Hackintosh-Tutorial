@@ -46,6 +46,7 @@ description: 沒錢買Mac，所以買了Ryzen裝黑蘋果
 #### 開發
 
 * Android  檔案傳輸應用程式無法讀取我的手機，但用 Android Studio 開發時可正常測試 \(via ADB\)。
+* Android Emulator 無法執行，會顯示未支援 SVM，用實機解決。
 * XCode 執行一切正常，就只有 Simulator 會小 Lag
 * XCode 版本太舊，僅能支援到 Swift 4.0，Simulator 最新只能到 11.2
 * XCode 接實機測試時需要下載新版 DeviceSupport，除非你的實機是舊版。
